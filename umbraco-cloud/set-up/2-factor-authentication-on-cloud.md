@@ -49,7 +49,7 @@ Before deactivating your old phone number, please make sure to update the phone 
 
 ![Phone authentication](../release-notes/images/Phone-auth.png)
 
-## Disabeling 2-factor authentication
+## Disabling 2-factor authentication
 
 You can always disable 2-factor authentication from your profile.
 
